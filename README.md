@@ -1,5 +1,5 @@
-# Project: Dota 2 assitant 
-## Insure fund:
+# Insure fund
+## intro:
   invest fund and buy insurance webapp
 ![image](https://user-images.githubusercontent.com/116508084/213916141-5799d1d9-9407-4495-8cdc-d50f11439b70.png)
   the Center for those who want to invest in alternatives and those who want to buy insurance.
