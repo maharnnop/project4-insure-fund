@@ -11,11 +11,13 @@ frontend: https://github.com/maharnnop/front_tda4
   - cd react-tda4 
   - npm i 
   - npm start
+  
 backend:https://github.com/maharnnop/insurance-fund
   - fork & clone
   - pip install, 
   - source .env/Scripts/activate
   - py manage.py runserver
+
 database:https://bit.io/maharnnop/tda4-db 
 
 ## Deployment:
